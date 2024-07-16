@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
+    "build": "tsc",
+    "prestart": "npm run build",
+    "test": "jest --verbose",
+    "start": "node index.js",
     "testWatch": "jest --watch --verbose"
   },
   "repository": {
