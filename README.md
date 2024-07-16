@@ -1,17 +1,17 @@
-Para rodar o projeto basta:
+Para rodar o projeto basta digitar no terminal:
 
 ```bash
-git clone https://github.com/sousaweb/cloudwalk-test
+$ git clone https://github.com/sousaweb/cloudwalk-test
 ```
 ```bash
-npm install
+$ npm install
 ````
 ```bash
-npm run start
+$ npm run start
 ````
 
 <br />Caso queira testar, basta rodar:<br />
 
 ```bash
-npm run test
+$ npm run test
 ```
