@@ -1,9 +1,17 @@
 Para rodar o projeto basta:
 
-1 - Clonar
-2 - npm install
-3 - npm run start
+```bash
+git clone https://github.com/sousaweb/cloudwalk-test
+```
+```bash
+npm install
+````
+```bash
+npm run start
+````
 
-Caso queira testar, basta rodar:
+<br />Caso queira testar, basta rodar:<br />
 
+```bash
 npm run test
+```
